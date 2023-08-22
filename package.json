@@ -1,0 +1,41 @@
+{
+    "name": "cecon-i-company",
+    "version": "1.0.0",
+    "description": "Interface de Company",
+    "dependencies": {},
+    "peerDependencies": {
+        "@auth0/angular-jwt": "^5.1.2",
+        "@angular/fire": ">=7.5.0 <7.9.0",
+        "rxjs": ">=7.5.0 <7.9.0"
+    },
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "private": false,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/markcecon/CeconICompany.git"
+    },
+    "keywords": [
+        "authentication",
+        "auth-service",
+        "ionic",
+        "angular",
+        "security",
+        "login",
+        "jwt",
+        "token",
+        "cecon"
+    ],
+    "author": "Mark Cecon",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/markcecon/CeconICompany/issues"
+    },
+    "homepage": "https://github.com/markcecon/CeconICompany#readme",
+    "devDependencies": {
+        "ng-packagr": "^16.2.0"
+    }
+}
